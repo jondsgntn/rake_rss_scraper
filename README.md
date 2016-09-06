@@ -1,4 +1,4 @@
-# [RAKE]RSS Scraper
+# [RAKE] RSS Scraper
 
 This is a collection of rake tasks to be used with a Ruby on Rails project
 
